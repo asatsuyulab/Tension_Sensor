@@ -1,0 +1,15 @@
+main.c:112:5:main	32	static
+main.c:176:6:SystemClock_Config	72	static
+main.c:214:13:MX_CAN_Init	8	static
+main.c:251:13:MX_TIM2_Init	40	static
+main.c:296:13:MX_USART2_UART_Init	8	static
+main.c:331:13:MX_GPIO_Init	40	static
+main.c:375:6:Delay_us	16	static,ignoring_inline_asm
+main.c:387:6:AE_HX711_Reset	8	static
+main.c:395:6:AE_HX711_Read	24	static
+main.c:416:6:AE_HX711_Averaging	24	static
+main.c:423:7:AE_HX711_getGram	24	static
+main.c:441:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+main.c:447:6:CAN_Send	16	static
+main.c:461:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:472:6:Error_Handler	4	static,ignoring_inline_asm
